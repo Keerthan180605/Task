@@ -1,22 +1,23 @@
+
 # Q.cafe - Modern Coffee Shop Website
 
 A modern, responsive coffee shop website showcasing products, services, team members, and customer reviews. Built with HTML, CSS, and JavaScript, featuring smooth animations and an intuitive user interface.
 
 ![Q.cafe Website](./Photos/hero.png)
 
-## 🚀 Features
+# Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
 - **Modern UI/UX**: Clean and contemporary design with smooth animations
 - **Interactive Navigation**: Smooth scrolling and mobile-friendly navigation menu
 - **Dynamic Sections**:
-  - Home showcase
+  - Home 
   - Services overview
-  - Product catalog
-  - Team member profiles
+  - Products catalog
+  - Team member profiles and short summary of what they have done
   - Customer reviews with Swiper.js integration
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -25,7 +26,7 @@ A modern, responsive coffee shop website showcasing products, services, team mem
 - [Swiper.js](https://swiperjs.com/) - Modern mobile touch slider
 - [ScrollReveal](https://scrollrevealjs.org/) - Scroll animations library
 
-## 🎯 Key Components
+##  Key Components
 
 1. **Navigation**
    - Responsive navigation bar
@@ -55,7 +56,7 @@ A modern, responsive coffee shop website showcasing products, services, team mem
    - Interactive slider
    - Rating system
 
-## 💻 Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```bash
@@ -69,27 +70,27 @@ A modern, responsive coffee shop website showcasing products, services, team mem
 
 3. Open `index.html` in your preferred browser.
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The website is fully responsive and optimized for:
 - Desktop (1200px and above)
 - Tablet (768px to 1199px)
 - Mobile (below 768px)
 
-## 🎨 Customization
+##  Customization
 
 - Colors can be modified in the `style.css` file
 - Images can be replaced in the `Photos` directory
 - Content can be updated in `index.html`
 
-## ⚡ Performance Optimization
+##  Performance Optimization
 
 - Optimized images for faster loading
 - Minified CSS and JavaScript
 - Efficient animation handling
 - Lazy loading for images
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -97,20 +98,20 @@ The website is fully responsive and optimized for:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## The License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👏 Acknowledgments
+##  Acknowledgments
 
 - Icons provided by BoxIcons
 - Slider functionality by Swiper.js
 - Scroll animations by ScrollReveal
 - Images from [source/credits]
 
-## 📞 Contact
+##  Contact
 
 For any queries or suggestions, please reach out to [your contact information]
 
 ---
-Made with ☕ by [Your Name/Organization] 
+Made by Keerthan M N
